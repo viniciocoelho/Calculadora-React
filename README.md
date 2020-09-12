@@ -1,9 +1,13 @@
 ## Creating a calculator interface using React.js
 
 VsCode extensions:
+
 Dracula Official
+
 Prettier
+
 Simple React Snippets
+## 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
